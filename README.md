@@ -68,7 +68,7 @@ This project focuses on analyzing customer churn behavior using Power BI. The da
 ## 🔗 Access & Usage
 
 > ⚠️ Due to file size limitations, the `.pbix` file is hosted externally:
-[📥 Download PBIX File](#) *([Download PBIX here](https://drive.google.com/file/d/1hb3h9ePszzIv0Ts8UE9O1U9xrkhvQ4oH/view?usp=sharing))*  
+[📥 Download PBIX File](#) *([Download PBIX here](https://drive.google.com/drive/folders/1MgxsD9edQkfjY7R4s9e6_A2uN6DfBdGU?usp=sharing))*  
 
 ---
 
