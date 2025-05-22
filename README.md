@@ -17,7 +17,7 @@ This project focuses on analyzing customer churn behavior using Power BI. The da
 ## 📈 Dashboard Previews
 
 ### 1️⃣ **Customer Overview & Churn Breakdown**
-[image](https://github.com/user-attachments/assets/c9fe8566-a2c9-474e-9e73-04ed9dd21d64)
+![Customer Overview Dashboard]![image](https://github.com/user-attachments/assets/c9fe8566-a2c9-474e-9e73-04ed9dd21d64)
 
 
 - Total of 7043 customers analyzed
@@ -27,7 +27,7 @@ This project focuses on analyzing customer churn behavior using Power BI. The da
 ---
 
 ### 2️⃣ **Churn Reasons & Business Impacts**
-[image](https://github.com/user-attachments/assets/8e7ef9e7-d67f-4ea4-a7f9-170ef604244b)
+![Churn Reason Dashboard]![image](https://github.com/user-attachments/assets/8e7ef9e7-d67f-4ea4-a7f9-170ef604244b)
 
 
 - Top churn category: **Competitor**
