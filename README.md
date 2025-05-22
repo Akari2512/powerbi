@@ -17,7 +17,7 @@ This project focuses on analyzing customer churn behavior using Power BI. The da
 ## 📈 Dashboard Previews
 
 ### 1️⃣ **Customer Overview & Churn Breakdown**
-![Customer Overview Dashboard]![image](https://github.com/user-attachments/assets/c9fe8566-a2c9-474e-9e73-04ed9dd21d64)
+[image](https://github.com/user-attachments/assets/c9fe8566-a2c9-474e-9e73-04ed9dd21d64)
 
 
 - Total of 7043 customers analyzed
@@ -27,7 +27,7 @@ This project focuses on analyzing customer churn behavior using Power BI. The da
 ---
 
 ### 2️⃣ **Churn Reasons & Business Impacts**
-![Churn Reason Dashboard]![image](https://github.com/user-attachments/assets/8e7ef9e7-d67f-4ea4-a7f9-170ef604244b)
+[image](https://github.com/user-attachments/assets/8e7ef9e7-d67f-4ea4-a7f9-170ef604244b)
 
 
 - Top churn category: **Competitor**
@@ -48,7 +48,7 @@ This project focuses on analyzing customer churn behavior using Power BI. The da
 
 ## 🗂️ Data Source
 
-- The dataset is a publicly available customer churn dataset ([or your source here](https://drive.google.com/drive/folders/1MgxsD9edQkfjY7R4s9e6_A2uN6DfBdGU?usp=sharing))
+- The dataset is a publicly available customer churn dataset ([Download here](https://drive.google.com/drive/folders/1MgxsD9edQkfjY7R4s9e6_A2uN6DfBdGU?usp=sharing))
 - Contains attributes like:
   - Customer satisfaction
   - Churn score
@@ -68,7 +68,7 @@ This project focuses on analyzing customer churn behavior using Power BI. The da
 ## 🔗 Access & Usage
 
 > ⚠️ Due to file size limitations, the `.pbix` file is hosted externally:
-[📥 Download PBIX File](#) *([replace with Google Drive/OneDrive link](https://drive.google.com/file/d/1hb3h9ePszzIv0Ts8UE9O1U9xrkhvQ4oH/view?usp=sharing))*  
+[📥 Download PBIX File](#) *([Download PBIX here](https://drive.google.com/file/d/1hb3h9ePszzIv0Ts8UE9O1U9xrkhvQ4oH/view?usp=sharing))*  
 
 ---
 
